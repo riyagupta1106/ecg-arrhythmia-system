@@ -1,0 +1,8 @@
+torch>=2.0.0
+wfdb
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
