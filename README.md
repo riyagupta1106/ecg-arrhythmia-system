@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ECG Arrhythmia Classification using CNN-LSTM
 
 A deep learning model for automated cardiac arrhythmia detection from ECG signals, achieving **Mean AUC of 0.985** across 5 arrhythmia classes on the MIT-BIH Arrhythmia Database.
@@ -109,3 +110,6 @@ python main.py
 - **wfdb** — PhysioNet MIT-BIH data loading
 - **scikit-learn** — evaluation metrics, train/test split
 - **NumPy / Matplotlib / Seaborn** — data processing and visualization
+=======
+# ecg-arrhythmia-system
+>>>>>>> be5c70751efb2df0043631e7d5930ce128b9b8de
